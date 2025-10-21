@@ -54,7 +54,7 @@
 ![image](https://snipboard.io/RoS3is.jpg)
 
 ### Password:
-![image](https://snipboard.io/Gfg9HY.jpg)
+![image](https://snipboard.io/6wgG7o.jpg)
 
 ### Clearable Password:
 ![image](https://snipboard.io/UWoiqZ.jpg)
