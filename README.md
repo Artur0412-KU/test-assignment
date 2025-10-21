@@ -9,3 +9,43 @@
   git clone <repo-url>
   cd <repo-directory>
   ```
+
+  2. Install dependencies:
+  ```npm install```
+
+  3. Run Storybook locally: 
+  ```npm run storybook```
+
+  4. Open your web browser at ```http://localhost:6006``` to view the Storybook UI.
+
+## Component Overview
+### SidebarMenu
+
+- A slide-in menu from the right.
+- Supports multi-level nested accordion submenus.
+- Opens when hovering over the right screen edge.
+- Closes on mouse leave of sidebar and hover zone.
+- Submenu items have independent click actions.
+- Smooth CSS transitions for sliding and expansion.
+
+### Toast
+
+- Notification component appearing at bottom-right.
+- Supports multiple types: success, error, info, warning.
+- Auto-dismisses after configurable duration.
+- Optional manual close button.
+- Smooth fade and slide transitions on show/hide.
+- System font-based styling for consistency.
+
+### Input
+
+- Styled input fields with password visibility toggle.
+- Clear button to reset input content.
+- Supports disabling password masking.
+
+
+## Screenshots
+
+## Input
+### Base:
+![]('https://prnt.sc/rivQpx-AJ19S')
