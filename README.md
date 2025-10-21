@@ -58,3 +58,31 @@
 
 ### Clearable Password:
 ![image](https://snipboard.io/UWoiqZ.jpg)
+
+### Number:
+![image](https://snipboard.io/cseMw0.jpg)
+
+
+## Toasts
+
+### Success:
+![image](https://snipboard.io/wIjv6t.jpg)
+
+### Manual:
+![image](https://snipboard.io/STCxIv.jpg)
+
+### Error:
+![image](https://snipboard.io/mwzSdf.jpg)
+
+### Warning:
+![image](https://snipboard.io/B8RAIC.jpg)
+
+
+## SideBar Menu
+
+### One Level:
+![image](https://snipboard.io/lXoC9p.jpg)
+
+### Two level with active items:
+![image](https://snipboard.io/4SBnfu.jpg)
+
