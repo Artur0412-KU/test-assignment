@@ -48,4 +48,4 @@
 
 ## Input
 ### Base:
-![](https://prnt.sc/rivQpx-AJ19S)
+![image_alt](https://prnt.sc/rivQpx-AJ19S)
