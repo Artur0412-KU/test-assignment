@@ -48,10 +48,10 @@
 
 ## Input
 ### Base:
-![image_alt](https://prnt.sc/rivQpx-AJ19S)
+![image_alt](https://snipboard.io/kGJwql.jpg)
 
 ### Clearable:
-![image](https://snipboard.io/B8bqO3.jpg)
+![image](https://snipboard.io/RoS3is.jpg)
 
 ### Password:
 ![image](https://snipboard.io/Gfg9HY.jpg)
