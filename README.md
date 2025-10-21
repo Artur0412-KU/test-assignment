@@ -51,4 +51,4 @@
 ![image_alt](https://prnt.sc/rivQpx-AJ19S)
 
 ### 
-![image]([https://prnt.sc/hdNOtpD7fwCZ](https://snipboard.io/B8bqO3.jpg))
+![image](https://snipboard.io/B8bqO3.jpg)
