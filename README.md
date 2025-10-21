@@ -48,4 +48,4 @@
 
 ## Input
 ### Base:
-![]('https://prnt.sc/rivQpx-AJ19S')
+![](https://prnt.sc/rivQpx-AJ19S)
