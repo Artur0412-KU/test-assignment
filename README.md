@@ -50,5 +50,11 @@
 ### Base:
 ![image_alt](https://prnt.sc/rivQpx-AJ19S)
 
-### 
+### Clearable:
 ![image](https://snipboard.io/B8bqO3.jpg)
+
+### Password:
+![image](https://snipboard.io/Gfg9HY.jpg)
+
+### Clearable Password:
+![image](https://snipboard.io/UWoiqZ.jpg)
